@@ -28,7 +28,16 @@ With the increasing impact of plastic pollution, Ecoarmor aims to provide a **su
 2. **AI-Powered Design**: AI tools generate optimized designs that balance aesthetics and durability.  
  
 
-## 📷 Screenshots  
+## 📷 Demo 
+
+
+
+
+
+https://github.com/user-attachments/assets/d7026c0c-2a71-4b70-9a28-01d9ff4a0dc8
+
+
+
   
 
 ## 🌍 Why Ecoarmor?  
